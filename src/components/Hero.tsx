@@ -25,7 +25,7 @@ const Hero = () => {
           </div>
           <div className="flex items-center space-x-2">
             <CheckCircle className="w-6 h-6 text-primary" />
-            <span className="text-lg">99.7% Accuracy</span>
+            <span className="text-lg">Secure & Reliable</span>
           </div>
         </div>
         
